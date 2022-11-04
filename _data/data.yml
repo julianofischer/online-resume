@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Juliano Fischer Naves
+    tagline: Python Developer/Site Reliability Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: julianofischer@gmail.com
+    phone: #012 345 6789
+    timezone: America/Sao Paulo
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: https://julianofischer.github.io/ #do not add http://
+    linkedin: julianofischernaves
+    xing: 
+    github: julianofischer
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,26 +32,24 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Portuguese
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+    #    - item: Climbing
+    #      link:
 
-        - item: Snowboarding
-          link:
+        #- item: Snowboarding
+        #  link:
 
-        - item: Cooking
-          link:
+        #- item: Cooking
+        #  link:
 
 career-profile:
     title: Career Profile
@@ -65,9 +63,16 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: PhD in Computer Science
+        university: Universidade Federal Fluminense
+        time: 2012-2017
+        details: |
+          describ
+          your
+          studies
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: Universidade Federal Fluminense
+        time: 2010 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +81,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Computer Science
+        university: Universidade Federal do Mato Grosso
+        time: 2006 - 2009
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,9 +95,23 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Python Software Engineer
+        time: 2022 - now
+        company: BairesDev
+        details: |
+          details
+          details
+          detail
+      - role: Site Reliability Engineer
+        time: 2022 - now
+        company: Pinterest (via BairesDev)
+        details: |
+          details
+          details
+          detail
+      - role: Professor
+        time: 2012 - 2022
+        company: Federal Institute of Education, Science, and Technology of Rondônia (IFRO)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
